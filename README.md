@@ -3,10 +3,10 @@
 ### 📍 CSharpEgitimKampi301.EFProject
 ##### Bu proje, FrmStatistics adlı bir form uygulamasıdır. EgitimKampiEfTravelDbEntities veritabanını kullanarak istatistiksel veriler sunmayı amaçlar. Uygulama, Entity Framework ile veritabanı işlemlerini gerçekleştirir ve aşağıdaki bilgileri kullanıcıya görsel bir arayüzde gösterir.
 
-##### Konum Sayısı: Veritabanındaki toplam konum sayısını gösterir.
-##### Toplam Kapasite: Tüm konumların toplam kapasitesini hesaplar.
-##### Rehber Sayısı: Veritabanındaki toplam rehber sayısını gösterir.
-##### Ortalama Kapasite: Tüm konumların kapasite ortalamasını iki ondalık basamakla gösterir.
+##### -Konum Sayısı: Veritabanındaki toplam konum sayısını gösterir.
+##### + Toplam Kapasite: Tüm konumların toplam kapasitesini hesaplar.
+##### * Rehber Sayısı: Veritabanındaki toplam rehber sayısını gösterir.
+- ##### Ortalama Kapasite: Tüm konumların kapasite ortalamasını iki ondalık basamakla gösterir.
 ##### Ortalama Konum Fiyatı: Konum fiyatlarının ortalamasını ₺ işaretiyle görüntüler.
 ##### Son Eklenen Ülke: Veritabanındaki son eklenen konumun ülke adını gösterir.
 ##### Kapadokya Kapasitesi: "Kapadokya" konumunun kapasitesini görüntüler.
